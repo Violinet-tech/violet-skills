@@ -1,0 +1,9 @@
+{
+  "name": "violet-skills",
+  "description": "Agent skills from VIOLINET Tech: ComfyUI fixes, de-Googling apps, looping video, readable UI over artwork, and keeping repos small.",
+  "version": "0.1.0",
+  "author": { "name": "VIOLINET Tech" },
+  "homepage": "https://github.com/Violinet-tech/violet-skills",
+  "license": "MIT",
+  "keywords": ["skills", "comfyui", "claude-code", "agent-skills"]
+}

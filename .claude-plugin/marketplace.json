@@ -1,0 +1,12 @@
+{
+  "name": "violet-skills",
+  "owner": { "name": "VIOLINET Tech" },
+  "plugins": [
+    {
+      "name": "violet-skills",
+      "source": "./",
+      "description": "ComfyUI fixes, de-Googling apps, seamless looping video, background contrast, repo slimming.",
+      "version": "0.1.0"
+    }
+  ]
+}
